@@ -1,3 +1,5 @@
 class PostsController < ApplicationController
-  def 
+  def posts/:id
+
+  end
 end
